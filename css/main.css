@@ -1,7 +1,8 @@
 body {
- background-image:background.jpg;
  margin: 60px auto;
  width: 70%;
+ background-image:background.jpg;
+ background-size: cover;
 }
 h1 {
  font-size: 3em;
