@@ -1,8 +1,7 @@
 body {
  margin: 60px auto;
  width: 70%;
- background-image: url('newbackground.jpg');
- height: 100px;
+ background-image: url('newbackground.jpg') norepeat;
 }
 h1 {
  font-size: 3em;
