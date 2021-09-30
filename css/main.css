@@ -50,8 +50,8 @@ ul.posts li {
  font-style: italic;
  font-size: 3em;
 }
-button {
-  background-color: #75007c; 
+.button {
+  background-color: #75007c !Important; 
   border: none;
   color: white;
   padding: 15px 32px;
