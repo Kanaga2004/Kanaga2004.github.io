@@ -46,3 +46,7 @@ ul.posts {
 ul.posts li {
  list-style: none;
 }
+#qoute{
+ font-style: italic;
+ font-size: 1em;
+}
