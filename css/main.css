@@ -51,7 +51,7 @@ ul.posts li {
  font-size: 3em;
 }
 .button {
-  background-color: #75007c !Important; 
+  background-color: #75007c ; 
   border: none;
   color: white;
   padding: 15px 32px;
