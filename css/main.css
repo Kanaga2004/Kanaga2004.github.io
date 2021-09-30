@@ -13,7 +13,7 @@ h1 {
 p {
  font-size: 1.5em;
  line-height: 1.4em;
- color: #333;
+ color: #9C1D62;
  padding-right: 50px;
 }
 footer {
@@ -25,7 +25,7 @@ nav ul, footer ul {
  padding: 0px;
  list-style: none;
  font-weight: bold;
- color: #800080;
+ color: #FF8501;
 }
 nav ul li, footer ul li {
  display: inline;
