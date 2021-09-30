@@ -2,7 +2,7 @@ body {
  margin: 60px auto;
  width: 70%;
  background-image: url('./images/newbackground.jpg');
- backgroun-repeat: no-repeat;
+ background-repeat: no-repeat;
 }
 h1 {
  font-size: 3em;
