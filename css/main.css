@@ -2,7 +2,6 @@ body {
  margin: 60px auto;
  width: 70%;
  background-image: url("/images/newbackground.jpg");
- background-repeat: no-repeat;
  background-size: cover;
 }
 h1 {
