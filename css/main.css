@@ -1,12 +1,13 @@
 body {
  margin: 60px auto;
  width: 70%;
- background-image: url("/images/newbackground.jpg");
+ background-image: url("/images/background.jpg");
  background-size: cover;
 }
 h1 {
  font-size: 3em;
  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+ color
 }
 p {
  font-size: 1.5em;
