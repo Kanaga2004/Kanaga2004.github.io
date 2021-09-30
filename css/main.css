@@ -4,9 +4,9 @@ body {
  background-image: url('newbackground.jpg') no-repeat;
 }
 h1 {
- font-size: 4em;
+ font-size: 3em;
  font-family:'Helvetica', 'Arial', 'Sans-Serif';
- color: blue;
+ color: blue !Important;
 }
 p {
  font-size: 1.5em;
